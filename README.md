@@ -1,4 +1,4 @@
-### The Complete Python Programming Course: Beginner to Advanced
+### O'REILLY The Complete Python Programming Course: Beginner to Advanced
 ##Get hands-on practice building these ten coding projects:
 
 1. Simple calculator
