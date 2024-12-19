@@ -1,5 +1,5 @@
 ### O'REILLY The Complete Python Programming Course: Beginner to Advanced
-#### Get hands-on practice building these ten coding projects:
+#### Python coding building this ten coding projects:
 
 1. Simple calculator
 2. RPG battle script
